@@ -4,3 +4,7 @@ text-align: center;
 color: aquamarine;
 font-size: larger;
 }
+#cabecera{
+    background: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
